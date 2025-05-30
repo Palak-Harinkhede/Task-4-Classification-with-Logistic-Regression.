@@ -73,7 +73,7 @@ All plots are included in the notebook for interpretation.
 ## 📁 Repository Contents
 
 - `data.csv` – Breast cancer dataset
-- `task4_logistic_regression.ipynb` – Jupyter Notebook with full code
+- `Task4(1).ipynb` – Jupyter Notebook with full code
 - `README.md` – This summary file
 
 ---
